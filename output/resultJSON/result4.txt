@@ -1,0 +1,474 @@
+[
+  {
+    events: [
+      {
+        url: '"https://www.ticketmaster.com/charli-xcx-troye-sivan-present-sweat-dallas-texas-10-09-2024/event/0C00608CA0B2420F"\n' +
+          '        "ageRestrictions" : {\n' +
+          '          "id" : "ageRestrictions"\n' +
+          '          "legalAgeEnforced" : false\n' +
+          '        }\n' +
+          '        "ticketing" : {\n' +
+          '          "safeTix" : {\n' +
+          '            "enabled" : true\n' +
+          '            "inAppOnlyEnabled" : false\n' +
+          '          }\n' +
+          '          "allInclusivePricing" : {\n' +
+          '            "enabled" : false\n' +
+          '          }\n' +
+          '          "id" : "ticketing"\n' +
+          '        }\n' +
+          '        "classifications" : [\n' +
+          '          {\n' +
+          '            "segment" : {\n' +
+          '              "id" : "KZFzniwnSyZfZ7v7nJ"\n' +
+          '              "name" : "Music"\n' +
+          '            }\n' +
+          '            "primary" : true\n' +
+          '            "subType" : {\n' +
+          '              "id" : "KZFzBErXgnZfZ7v7lJ"\n' +
+          '              "name" : "Undefined"\n' +
+          '            }\n' +
+          '            "family" : false\n' +
+          '            "subGenre" : {\n' +
+          '              "id" : "KZazBEonSMnZfZ7v6F1"\n' +
+          '              "name" : "Pop"\n' +
+          '            }\n' +
+          '            "type" : {\n' +
+          '              "id" : "KZAyXgnZfZ7v7nI"\n' +
+          '              "name" : "Undefined"\n' +
+          '            }\n' +
+          '            "genre" : {\n' +
+          '              "id" : "KnvZfZ7vAeA"\n' +
+          '              "name" : "Rock"\n' +
+          '            }\n' +
+          '          }\n' +
+          '        ]\n' +
+          '        "promoters" : [\n' +
+          '          {\n' +
+          '            "id" : "653"\n' +
+          '            "name" : "LIVE NATION MUSIC"\n' +
+          '            "description" : "LIVE NATION MUSIC / NTL / USA"\n' +
+          '          }\n' +
+          '        ]\n' +
+          '        "pleaseNote" : "Barcodes will not be visible until 72 hours prior to show time. Resale tickets may exceed face value and prices are not set by the artist."\n' +
+          '        "images" : [\n' +
+          '          {\n' +
+          '            "height" : 115\n' +
+          '            "fallback" : false\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dbimages/507331a.jpg"\n' +
+          '            "width" : 205\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 1365\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_SOURCE"\n' +
+          '            "width" : 2426\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 427\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "3_2"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_PORTRAIT_3_2.jpg"\n' +
+          '            "width" : 640\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 360\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_PORTRAIT_16_9.jpg"\n' +
+          '            "width" : 640\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 1152\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_LARGE_16_9.jpg"\n' +
+          '            "width" : 2048\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 225\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "4_3"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_CUSTOM.jpg"\n' +
+          '            "width" : 305\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 683\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "3_2"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_3_2.jpg"\n' +
+          '            "width" : 1024\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 203\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "3_2"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_ARTIST_PAGE_3_2.jpg"\n' +
+          '            "width" : 305\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 56\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RECOMENDATION_16_9.jpg"\n' +
+          '            "width" : 100\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 576\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_16_9.jpg"\n' +
+          '            "width" : 1024\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 639\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_LANDSCAPE_16_9.jpg"\n' +
+          '            "width" : 1136\n' +
+          '          }\n' +
+          '        ]\n' +
+          '        "_embedded" : {\n' +
+          '          "attractions" : [\n' +
+          '            {\n' +
+          '              "locale" : "en-us"\n' +
+          '              "images" : [\n' +
+          '                {\n' +
+          '                  "height" : 1365\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_SOURCE"\n' +
+          '                  "width" : 2426\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 427\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "3_2"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_PORTRAIT_3_2.jpg"\n' +
+          '                  "width" : 640\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 360\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_PORTRAIT_16_9.jpg"\n' +
+          '                  "width" : 640\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 1152\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_LARGE_16_9.jpg"\n' +
+          '                  "width" : 2048\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 225\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "4_3"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_CUSTOM.jpg"\n' +
+          '                  "width" : 305\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 683\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "3_2"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_3_2.jpg"\n' +
+          '                  "width" : 1024\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 115\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_EVENT_DETAIL_PAGE_16_9.jpg"\n' +
+          '                  "width" : 205\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 203\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "3_2"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_ARTIST_PAGE_3_2.jpg"\n' +
+          '                  "width" : 305\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 56\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RECOMENDATION_16_9.jpg"\n' +
+          '                  "width" : 100\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 576\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_16_9.jpg"\n' +
+          '                  "width" : 1024\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 639\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-'... 494425 more characters,
+        dateTime: '"2024-10-12T03:00:00Z"'
+      }
+    ]
+  },
+  _embedded: {
+    events: [
+      {
+        url: '"https://www.ticketmaster.com/charli-xcx-troye-sivan-present-sweat-dallas-texas-10-09-2024/event/0C00608CA0B2420F"\n' +
+          '        "ageRestrictions" : {\n' +
+          '          "id" : "ageRestrictions"\n' +
+          '          "legalAgeEnforced" : false\n' +
+          '        }\n' +
+          '        "ticketing" : {\n' +
+          '          "safeTix" : {\n' +
+          '            "enabled" : true\n' +
+          '            "inAppOnlyEnabled" : false\n' +
+          '          }\n' +
+          '          "allInclusivePricing" : {\n' +
+          '            "enabled" : false\n' +
+          '          }\n' +
+          '          "id" : "ticketing"\n' +
+          '        }\n' +
+          '        "classifications" : [\n' +
+          '          {\n' +
+          '            "segment" : {\n' +
+          '              "id" : "KZFzniwnSyZfZ7v7nJ"\n' +
+          '              "name" : "Music"\n' +
+          '            }\n' +
+          '            "primary" : true\n' +
+          '            "subType" : {\n' +
+          '              "id" : "KZFzBErXgnZfZ7v7lJ"\n' +
+          '              "name" : "Undefined"\n' +
+          '            }\n' +
+          '            "family" : false\n' +
+          '            "subGenre" : {\n' +
+          '              "id" : "KZazBEonSMnZfZ7v6F1"\n' +
+          '              "name" : "Pop"\n' +
+          '            }\n' +
+          '            "type" : {\n' +
+          '              "id" : "KZAyXgnZfZ7v7nI"\n' +
+          '              "name" : "Undefined"\n' +
+          '            }\n' +
+          '            "genre" : {\n' +
+          '              "id" : "KnvZfZ7vAeA"\n' +
+          '              "name" : "Rock"\n' +
+          '            }\n' +
+          '          }\n' +
+          '        ]\n' +
+          '        "promoters" : [\n' +
+          '          {\n' +
+          '            "id" : "653"\n' +
+          '            "name" : "LIVE NATION MUSIC"\n' +
+          '            "description" : "LIVE NATION MUSIC / NTL / USA"\n' +
+          '          }\n' +
+          '        ]\n' +
+          '        "pleaseNote" : "Barcodes will not be visible until 72 hours prior to show time. Resale tickets may exceed face value and prices are not set by the artist."\n' +
+          '        "images" : [\n' +
+          '          {\n' +
+          '            "height" : 115\n' +
+          '            "fallback" : false\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dbimages/507331a.jpg"\n' +
+          '            "width" : 205\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 1365\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_SOURCE"\n' +
+          '            "width" : 2426\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 427\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "3_2"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_PORTRAIT_3_2.jpg"\n' +
+          '            "width" : 640\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 360\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_PORTRAIT_16_9.jpg"\n' +
+          '            "width" : 640\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 1152\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_LARGE_16_9.jpg"\n' +
+          '            "width" : 2048\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 225\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "4_3"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_CUSTOM.jpg"\n' +
+          '            "width" : 305\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 683\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "3_2"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_3_2.jpg"\n' +
+          '            "width" : 1024\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 203\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "3_2"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_ARTIST_PAGE_3_2.jpg"\n' +
+          '            "width" : 305\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 56\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RECOMENDATION_16_9.jpg"\n' +
+          '            "width" : 100\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 576\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_16_9.jpg"\n' +
+          '            "width" : 1024\n' +
+          '          }\n' +
+          '          {\n' +
+          '            "height" : 639\n' +
+          '            "fallback" : false\n' +
+          '            "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '            "ratio" : "16_9"\n' +
+          '            "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_LANDSCAPE_16_9.jpg"\n' +
+          '            "width" : 1136\n' +
+          '          }\n' +
+          '        ]\n' +
+          '        "_embedded" : {\n' +
+          '          "attractions" : [\n' +
+          '            {\n' +
+          '              "locale" : "en-us"\n' +
+          '              "images" : [\n' +
+          '                {\n' +
+          '                  "height" : 1365\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_SOURCE"\n' +
+          '                  "width" : 2426\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 427\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "3_2"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_PORTRAIT_3_2.jpg"\n' +
+          '                  "width" : 640\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 360\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RETINA_PORTRAIT_16_9.jpg"\n' +
+          '                  "width" : 640\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 1152\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_LARGE_16_9.jpg"\n' +
+          '                  "width" : 2048\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 225\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "4_3"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_CUSTOM.jpg"\n' +
+          '                  "width" : 305\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 683\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "3_2"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_3_2.jpg"\n' +
+          '                  "width" : 1024\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 115\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_EVENT_DETAIL_PAGE_16_9.jpg"\n' +
+          '                  "width" : 205\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 203\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "3_2"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_ARTIST_PAGE_3_2.jpg"\n' +
+          '                  "width" : 305\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 56\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_RECOMENDATION_16_9.jpg"\n' +
+          '                  "width" : 100\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 576\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-4c55-b39b-f61564286f2b_TABLET_LANDSCAPE_16_9.jpg"\n' +
+          '                  "width" : 1024\n' +
+          '                }\n' +
+          '                {\n' +
+          '                  "height" : 639\n' +
+          '                  "fallback" : false\n' +
+          '                  "attribution" : "Adding Weltner as participant in intiial ticket to communicate the change (CMG-73539)"\n' +
+          '                  "ratio" : "16_9"\n' +
+          '                  "url" : "https://s1.ticketm.net/dam/a/f2b/220a2ab5-5dc4-'... 494425 more characters,
+        dateTime: '"2024-10-12T03:00:00Z"'
+      }
+    ]
+  }
+]
